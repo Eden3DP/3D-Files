@@ -1,7 +1,7 @@
-# MagicWandBand
+# 3D Print Version 0.1 MagicWandBand
 This 3D printable product is available in the Eden3D.io store for purchase
 
-Verison 0.1 .STL here: https://github.com/Eden3DP/3D-Files/tree/main/MagicWandBand
+View Readme.md here: 
 
 
 [images uploaded soon]
@@ -9,7 +9,9 @@ Verison 0.1 .STL here: https://github.com/Eden3DP/3D-Files/tree/main/MagicWandBa
 
 
 -----------------------------------------------
-# FAQ
+# 3D Printing MagicWandBand
+
+
 Q: What is the MagicWandBand?
 ---
 A: MagicWandBand is a 3D printed wearable device. a true sex-symbol fashion statement, to say the least. 
