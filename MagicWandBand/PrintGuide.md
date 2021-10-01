@@ -1,7 +1,7 @@
 # 3D Print Version 0.1 MagicWandBand
 This 3D printable product is available in the Eden3D.io store for purchase
 
-View Readme.md here: 
+View repository here: https://github.com/Eden3DP/MagicWandBand
 
 
 [images uploaded soon]
