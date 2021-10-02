@@ -12,9 +12,12 @@ View repository here: https://github.com/Eden3DP/MagicWandBand
 # 3D Printing MagicWandBand
 
 
-Q: What is the MagicWandBand?
+Profile settings
 ---
-A: MagicWandBand is a 3D printed wearable device. a true sex-symbol fashion statement, to say the least. 
+
+Material: TPU
+Print speed: 25-40 mm/s
+
 
 Q: What does the MagicWandBand do?
 ---
