@@ -17,6 +17,9 @@ Profile settings
 
 Material: TPU
 Print speed: 25-40 mm/s
+Temperature
+- Hot end: 260 C
+- Bed: 70 C
 
 
 Q: What does the MagicWandBand do?
