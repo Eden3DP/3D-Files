@@ -22,6 +22,8 @@ Temperature
 - Hot end: 260 C
 - Bed: 70 C
 
+Infill (density): 100% (for best results)
+
 
 Q: What does the MagicWandBand do?
 ---
