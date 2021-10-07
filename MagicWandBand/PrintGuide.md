@@ -24,6 +24,9 @@ Temperature
 
 Infill (density): 100% (for best results)
 
+Print Time:
+3-5 hours
+
 
 
 
